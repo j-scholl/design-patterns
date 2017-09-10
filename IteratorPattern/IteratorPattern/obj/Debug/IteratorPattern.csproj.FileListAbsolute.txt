@@ -1,0 +1,10 @@
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.Properties.Resources.resources
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.GenerateResource.Cache
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
+E:\designpatterns\IteratorPattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.clientForm.resources
